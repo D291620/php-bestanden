@@ -1,0 +1,33 @@
+*{
+    font-family: 'verdana';
+}
+body {
+    width: 100%;
+    background-image: url("bgpng.png");
+    background-repeat: no-repeat;
+    background-size:1920px 980px;
+
+}
+.form{margin:auto}
+
+#Titel{
+    background-color: () ;
+    height: 100px;
+    width: 500px;
+    margin-left: 200px; 
+    margin-top: 0px;
+    border-radius: 20px;
+    opacity: 100%; 
+}
+
+#login{
+    background-color: () ;
+    height: 100px;
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 105px;
+    border-radius: 10px;
+    opacity: 100%; 
+    
+}
+
